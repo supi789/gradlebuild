@@ -1,5 +1,7 @@
 # gradle-simple
 added linked features to it
+added some google features
+
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
